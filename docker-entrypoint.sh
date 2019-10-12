@@ -1,4 +1,4 @@
-
+#!/bin/sh
 
 # Do not forget that reveal.js manage only the following
 #   'index.html'
